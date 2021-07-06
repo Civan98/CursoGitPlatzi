@@ -19,3 +19,6 @@ git reset --soft "commit":borra los commits pero deja guardado lo que tengas en 
 git reset HEAD: regresa un cambio a su último commit
 git rm --cached: quita el archivo solo del Staging
 git rm --force: quita el archivo del Staging y lo borra del disco también
+git clone - clona un repo en remoto
+git push - sube cambios al remoto
+git pull - descarga cambios del remoto
