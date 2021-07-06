@@ -5,4 +5,4 @@ Git rm - desagrega los cambios del add
 Git log - el historial del archivo
 Git status - el estado del repositorio
 Git show - historial de cambios del archivo
- 
+Git diff para ver las diferencias entre commits 
