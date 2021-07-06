@@ -33,3 +33,5 @@ git config --global user.email "ivan11926@hotmail.com" cambiar correo de la conf
 ssh-keygen -t rsa -b 4096 -C - Contra a ssh
 eval $(ssh-agent - s) - evalua que esten funcionando las llaves
 eval "$(ssh-agent)" - evalua que esten funcionando las llaves
+
+git remote set-url origin - cambia el url del origin para hacer push y fetch
