@@ -23,3 +23,5 @@ git clone - clona un repo en remoto
 git push - sube cambios al remoto
 git pull - descarga cambios del remoto
 git branch - crea una rama
+git merge - unir dos ramas
+git remote add origin "link"
