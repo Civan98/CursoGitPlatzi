@@ -6,3 +6,4 @@ Git log - el historial del archivo
 Git status - el estado del repositorio
 Git show - historial de cambios del archivo
 Git diff para ver las diferencias entre commits 
+Git reset "nombre commit al que se quiere regresar" --hart borra los commits 
