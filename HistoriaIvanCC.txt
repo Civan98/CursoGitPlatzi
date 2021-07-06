@@ -11,3 +11,4 @@ Git log --stat cambios más a detalle
 Git checkout "commit" "nombre archivo" regresa a una version anterior
 git rm --cached: Elimina los archivos del área de Staging y del próximo commit pero los mantiene en nuestro disco duro.
 git rm --force: Elimina los archivos de Git y del disco duro. 
+Esta linea no debe ir 
