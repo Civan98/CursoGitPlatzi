@@ -22,3 +22,4 @@ git rm --force: quita el archivo del Staging y lo borra del disco también
 git clone - clona un repo en remoto
 git push - sube cambios al remoto
 git pull - descarga cambios del remoto
+git branch - crea una rama
