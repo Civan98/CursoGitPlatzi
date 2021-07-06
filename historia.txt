@@ -3,5 +3,6 @@ Git add . - pone listos los cambios
 Git commit -m "" - agrega los cambios listo
 Git rm - desagrega los cambios del add
 Git log - el historial del archivo
-Git status - el estado del repositorip
+Git status - el estado del repositorio
 Git show - historial de cambios del archivo
+Git 
