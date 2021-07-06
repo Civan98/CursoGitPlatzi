@@ -26,3 +26,5 @@ git branch - crea una rama
 git merge - unir dos ramas
 git remote add origin "link"
 git push origin master mandar al remoto
+
+git pull origin master --allow-unrelated-histories /cuando da error al traer algo del remoto/
