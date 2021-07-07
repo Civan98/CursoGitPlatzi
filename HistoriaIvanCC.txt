@@ -35,3 +35,9 @@ eval $(ssh-agent - s) - evalua que esten funcionando las llaves
 eval "$(ssh-agent)" - evalua que esten funcionando las llaves
 
 git remote set-url origin - cambia el url del origin para hacer push y fetch
+alias arbolito="git log --all --graph --decorate --oneline"
+git tag - tag que existen
+git tag -a v0.1 -m "messege" "commit" - crear un tag
+git pull origin --tags - mandar tags a internet
+git tag -d "name" - para borrar un tag interno
+git push origin :refs/tags/"name" -borrar en github  
