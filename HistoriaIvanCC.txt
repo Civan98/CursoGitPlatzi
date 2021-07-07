@@ -44,3 +44,6 @@ git push origin :refs/tags/"name" -borrar en github
 git show-branch --all - muestra todas las ramas con datos
 git clean --dry-run - elimina archivos que son copias del stages
 git cherry-pick - traer un commit de una rama
+git commit --amend sobrescribe el último commit
+git rebase - une la historia de una rama con la que se esta uniendo
+git reflog - se ve todo hasta los head para regresar
